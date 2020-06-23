@@ -19,3 +19,6 @@ class Matematica {
         return x + y
     }
 }
+
+var n1 ='sfdsfsd';
+//var n1 = 4;
